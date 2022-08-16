@@ -10,4 +10,4 @@ It is a Magisk Module that goes to */system/vendor/etc* and */system/vendor/bin*
 3. When the installation finishes, reboot your phone and the magisk module should be installed.  
 
 ## Which devices are compatible?
-This Magisk Module was tested on a POCO X3 PRO and it works flawlessly, but it should work on most of POCO/XIAOMI devices.
+This Module was tested on a POCO X3 PRO and it works flawlessly, but it should work on most of POCO/XIAOMI devices.
