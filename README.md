@@ -1,5 +1,5 @@
 # Thermal PX
-**Thermal PX** is a Magisk Module used to remove Android Thermal Throttling completely.
+**Thermal PX** is a Magisk Module used to get a better performance on our Android device by removing Thermal Throttling completely.
 
 
 ## How does it work?
@@ -14,3 +14,7 @@ It is a Magisk Module that goes to */system/vendor/etc* and */system/vendor/bin*
 
 ## Which devices are compatible?
 This Module was tested on a POCO X3 PRO and it works flawlessly, but it should work on most of POCO/XIAOMI devices.
+
+
+## ***Risks***
+By using this module, u assume all the risks that may occur due to the improper use of this module. High temperatures, burns or explosions are expected to happen if temperatures are not controlled correctly.
