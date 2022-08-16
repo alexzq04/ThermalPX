@@ -13,7 +13,8 @@ It is a Magisk Module that goes to */system/vendor/etc* and */system/vendor/bin*
 
 
 ## Which devices are compatible?
-This Module was tested on a POCO X3 PRO and it works flawlessly, but it should work on most of POCO/XIAOMI devices.
+* POCO X3 PRO
+* Might work on other POCO/XIAOMI devices
 
 
 ## ***Risks***
